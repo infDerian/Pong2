@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Spielsteuerung
+comment1.params=
+comment1.target=Spielsteuerung()
+comment2.params=
+comment2.target=Zeichenflaeche\ getZeichenflaeche()
+comment3.params=kc
+comment3.target=void\ pressed(javafx.scene.input.KeyCode)
+comment3.text=public\ void\ pressed(KeyEvent\ event)\ {\r\n\ \ \ \ \ \ \ \ if(event.getCode()\ \=\=\ KeyCode.W)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ s1.hoch();\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if(event.getCode()\ \=\=\ KeyCode.S)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ s1.runter();\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if(event.getCode()\ \=\=\ KeyCode.UP)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ s2.hoch();\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if(event.getCode()\ \=\=\ KeyCode.DOWN)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ s2.runter();\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ if(event.getCode()\ \=\=\ KeyCode.X)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ Platform.exit();\r\n\ \ \ \ \ \ \ \ }\r\n}
+comment4.params=
+comment4.target=void\ update()
+numComments=5

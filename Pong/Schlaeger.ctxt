@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Schlaeger
+comment1.params=x\ y
+comment1.target=Schlaeger(double,\ double)
+comment2.params=
+comment2.target=double\ getVelocity()
+comment3.params=
+comment3.target=double\ gebeY()
+comment4.params=
+comment4.target=double\ gebeX()
+comment5.params=
+comment5.target=void\ runter()
+comment6.params=
+comment6.target=void\ hoch()
+comment7.params=
+comment7.target=void\ update()
+numComments=8
